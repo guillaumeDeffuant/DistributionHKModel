@@ -4,3 +4,4 @@ The model is completely described in: Deffuant, G. Complex Transitions of the Bo
 The R code contains two main functions:
 * one for running the HK mode on distribuition and visualising the evolution of the distribution
 * one for exploring the final clusters when the confidence bound varies
+There is an example of command line in comment after each main function.
